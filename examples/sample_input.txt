@@ -1,0 +1,8 @@
+From: Slack, #product-requests
+
+hey can we get a feature where users can export their dashboard as a PDF?
+sales keeps asking for this in demos, they want to leave something behind
+after the call. needs to look decent, not just a screenshot dump. probably
+just the summary view, not every single chart — that would take too long
+to generate anyway. no auth stuff needed since it's just their own data.
+would be nice to have by end of quarter but not a hard deadline.
